@@ -1,0 +1,33 @@
+class LogCounter
+{
+	public function SeekUser($user_name)
+	{
+		// return ind >= 0
+	}
+	
+	public function AddUser($user_name, $log_count = 0)
+	{
+		
+	}
+	
+	public function RemoveUserByName($user_name)
+	{
+		
+	}
+	
+	public function RemoveUserByIndex($index)
+	{
+		
+	}
+	
+	public function IncreaseCount($index)
+	{
+		// increase count by 1
+	}
+	
+	public function DecreaseCount($index)
+	{
+		// decrease count by 1
+	}
+	
+}
